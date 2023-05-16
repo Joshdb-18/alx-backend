@@ -1,8 +1,3 @@
-## Caching
-
-### All the classes inherits from BaseCaching defined below:
-```python
-
 #!/usr/bin/python3
 """ BaseCaching module
 """
@@ -35,4 +30,3 @@ class BaseCaching():
         """ Get an item by key
         """
         raise NotImplementedError("get must be implemented in your cache class")
-```
