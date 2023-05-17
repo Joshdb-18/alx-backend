@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Task 1
+Task 1:
+First-In First-Out caching module.
 """
 
 from base_caching import BaseCaching
