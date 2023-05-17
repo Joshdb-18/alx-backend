@@ -6,7 +6,6 @@ Task 1
 from base_caching import BaseCaching
 
 
-
 class FIFOCache(BaseCaching):
     """
     Inherits from BaseCahing and is a caching system
